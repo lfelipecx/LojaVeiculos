@@ -62,7 +62,7 @@
 					<li><a href="home">Home</a></li>
 					<li><a href="venda">Venda</a></li>
 					<li><a href="sobre">Sobre</a></li>
-					<li><a href="">Contato</a></li>
+					<li><a goto="contato" href="contato">Contato</a></li>
 				</ul>
 			</nav>
 			<p>Todos os Direitos Reservados</p>
